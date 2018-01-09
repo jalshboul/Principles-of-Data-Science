@@ -51,3 +51,7 @@ Next...
 - Project Link on github:
 
 https://github.com/jalshboul/Principles-of-Data-Science
+
+- Project Link on Shiny:
+
+https://loanstatus.shinyapps.io/loanstatus/
